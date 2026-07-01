@@ -30,14 +30,14 @@ dependencies {
     // implementation 'Vulcan:Vulcan:2.7.5'
 
     //PlaceholderAPI Expansions
-    implementation 'PAPI-Expansion:Expansion-Bungee:2.3'
-    implementation 'PAPI-Expansion:Expansion-Essentials:1.5.2'
-    implementation 'PAPI-Expansion:Expansion-Javascript:2.1.3'
-    implementation 'PAPI-Expansion:Expansion-LuckPerms:5.4'
-    implementation 'PAPI-Expansion:Expansion-Pinger:1.0.1'
-    implementation 'PAPI-Expansion:Expansion-Player:2.0.8'
-    implementation 'PAPI-Expansion:Expansion-Server:2.7.3'
-    implementation 'PAPI-Expansion:Expansion-VotingPlugin:1.5'
+    implementation 'PAPI:Expansion-Bungee:2.3'
+    implementation 'PAPI:Expansion-Essentials:1.5.2'
+    implementation 'PAPI:Expansion-Javascript:2.1.3'
+    implementation 'PAPI:Expansion-LuckPerms:5.4'
+    implementation 'PAPI:Expansion-Pinger:1.0.1'
+    implementation 'PAPI:Expansion-Player:2.0.8'
+    implementation 'PAPI:Expansion-Server:2.7.3'
+    implementation 'PAPI:Expansion-VotingPlugin:1.5'
     
     // implementation 'Plugin:UnifiedMetrics:0.3.8'
 }
